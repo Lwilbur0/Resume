@@ -2,7 +2,7 @@
 _Coder, Sophomore in high school_
 
 ## Education
-- Completed AP Computer Science A course and received a 5 on the AP test
+- Completed AP Computer Science A course with a 5
 - Know Java well
 - JavaScript, css, html
 ## Projects
