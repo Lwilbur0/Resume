@@ -6,7 +6,7 @@ _Coder, Sophomore in high school_
 - Know Java well
 - JavaScript, css, html
 ## Projects
-[Bracket Generator Website](tournamentgenerator.b4a.app)
+[Bracket Generator Website](https://tournamentgenerator.b4a.app)
   - creates tournament brackets of given teams, able to be join hosted tournaments from own device, editable and saveable
 
 [15 Puzzle](https://github.com/Lwilbur0/15-Puzzle)
